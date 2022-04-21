@@ -2,6 +2,8 @@
 
 #### I'm a Front End Developer based in Milan, Italy.
 
+---
+
 ### What I use daily
 [![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,html,pug,css,sass,git)](https://skillicons.dev)
 
