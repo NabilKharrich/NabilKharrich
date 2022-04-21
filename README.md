@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,html,pug,css,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,html,pug,css,sass,git)](https://skillicons.dev)
 
 <!--
 **NabilKharrich/NabilKharrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
